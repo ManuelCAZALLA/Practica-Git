@@ -1,4 +1,4 @@
-#Entrega Practica de Git
+# Entrega Practica de Git
 
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 - R = git reset --hard HEAD~1. Porque queremos deshacer el último commit y borrar cambios de working copy.
