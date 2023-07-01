@@ -38,4 +38,4 @@ conflicto.
 - R = git reflog, git checkout <id commit inicial>
 
 - ¿Qué comando o comandos usaste en el punto 33?
-- R = git checkout maim
+- R = git checkout main
